@@ -1,0 +1,1 @@
+import{f as s,g as a,B as e}from"./common-5e72c1c1.js";const r='{"title":"设计资源","frontmatter":{},"relativePath":"docs/resource.md","lastUpdated":1602039689166.3645}';var t={};const o=e('',4);t.render=function(e,r,t,c,i,n){return s(),a("div",null,[o])};export default t;export{r as __pageData};

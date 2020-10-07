@@ -1,0 +1,1 @@
+import{f as i,g as t,B as a}from"./common-5e72c1c1.js";const e='{"title":"更新日志","frontmatter":{},"relativePath":"docs/changelog.md","lastUpdated":1602045450963.748}';var l={};const s=a('',4);l.render=function(a,e,l,n,c,o){return i(),t("div",null,[s])};export default l;export{e as __pageData};
